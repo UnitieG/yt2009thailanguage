@@ -29,7 +29,7 @@
             "2+": "ปี"
         },
         "prefix": "",
-        "suffix": " ที่แล้ว"
+        "suffix": "ที่แล้ว"
     },
     "watchpageUploadDate": {
         "dateFormat": "[monthcode] [day], [year]",
@@ -68,10 +68,10 @@
     "tags_begin": "Tags: ",
     "morefrom": "เพื่มเติมจาก: ",
     "related": "วิดีโอที่เกี่ยวข้อง",
-    "views_prefix": "",
-    "views_suffix": " views",
-    "ratings_prefix": "",
-    "ratings_suffix": " ratings",
+    "views_prefix": "การดู ",
+    "views_suffix": " ครั้ง",
+    "ratings_prefix": "การประเมิน ",
+    "ratings_suffix": " ครั้ง",
     "statsdata": "Statistics &amp; Data",
     "responses": "Video Responses",
     "favorite": "Favorite",
@@ -80,7 +80,7 @@
     "flag": "Flag",
     "comments": "Text Comments&nbsp;",
     "comment_options": "Options",
-    "comment_reply": "Reply",
+    "comment_reply": "ตอบกลับ",
     "comment_spam": "Spam",
     "showing_comments_p1": "Showing ",
     "showing_comments_p2": " comments",
@@ -143,8 +143,8 @@
     "playnav_playlist_name": "Playlist Name: ",
     "playnav_playlist_added": "The video has been added to your playlist.",
     "playnav_more": "see more",
-    "playnav_viewcount_prefix": "",
-    "playnav_viewcount_suffix": " views",
+    "playnav_viewcount_prefix": "การดู",
+    "playnav_viewcount_suffix": " ครั้ง",
     "playnav_close": "close",
     "playnav_add_btn": "Add",
     "channel_addfriend": "Add as Friend",
@@ -293,7 +293,7 @@
     "userpage_paging_last": "Last &raquo;",
     "userpage_addto": "Add to",
     "userpage_clear_history": "Clear Viewing History",
-    "userpage_views_prefix": "Views: ",
+    "userpage_views_prefix": "จำนวนการรับชม: ",
     "userpage_new_playlist": "Playlist",
     "userpage_new_video": "Video Upload",
     "userpage_new_btn": "New",
@@ -308,10 +308,10 @@
     "userpage_vl_table_pos": "Position",
     "userpage_vl_table_title": "Title",
     "userpage_vl_table_time": "Time",
-    "userpage_vl_table_date": "Date Added",
-    "userpage_vl_table_views": "Views",
+    "userpage_vl_table_date": "วันที่เพื่มเข้ามา",
+    "userpage_vl_table_views": "views",
     "userpage_vl_table_rating": "Rating",
     "vl_permalink_label": "Playlist/URL (Permalink):",
     "vl_embed_label": "Embeddable Player:",
-    "vl_playall": "Play All Videos"
+    "vl_playall": "เล่นวิดีโอทั้งหมด"
 }
